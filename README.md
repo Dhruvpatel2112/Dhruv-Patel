@@ -29,7 +29,7 @@ A simple working facial recognition program.
 
 To achieve best accuracy, please try to mimick what I did here in this gif while inputting new subject:
     
-![GIF Demo](https://media.giphy.com/media/3o7aD7CZ6C3RLCvLgs/giphy.gif)
+
 
         
 ### Flags:
@@ -75,13 +75,13 @@ Also, you can do some multi-threading/processing tricks to improve performance.
 
 ### Demos:
 
-![GIF Demo](https://media.giphy.com/media/l378mx3j8ZsWlOuze/giphy.gif)
+
 
 Live demo: https://www.youtube.com/watch?v=6CeCheBN0Mg
 
 
 
-@Author: David Vu
+@Author: dhruv
 
 ## Credits:
     -  Pretrained models from: https://github.com/davidsandberg/facenet
