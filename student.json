@@ -1,0 +1,27 @@
+{
+	"_id": {
+		"$oid": "5c50846006e56637c061d34a"
+	},
+	"types": "Student",
+	"username": "160010107049",
+	"password": "$2a$10$qSNy347mIUxjmXDZjxWppucoqNyMZoQBTxnpS/9viPF9GAkqWr8Za",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "5c509fca3e2df11bacb8a551"
+	},
+	"types": "Student",
+	"username": "160010107047",
+	"password": "$2a$10$GPZ44wGLnY560pghWGiSgOTTAexkqXwuq86llxT9ygHhPbmSeUEku",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "5c50a24d097fa32ac0ad50b2"
+	},
+	"types": "Student",
+	"username": "160010107046",
+	"password": "$2a$10$DIeVheMFX87WxpKV32Y8.elm6vBc9H37V4L/XGVrQlBYMCoqj8YJy",
+	"__v": 0
+}

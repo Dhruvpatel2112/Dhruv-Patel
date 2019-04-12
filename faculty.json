@@ -1,0 +1,36 @@
+{
+	"_id": {
+		"$oid": "5c506aabd3b7611fc087fed6"
+	},
+	"types": "Faculty",
+	"username": "Payal",
+	"password": "$2a$10$sU3PXL6CZDXXsOa4plkPD.8wbgQFTIUyF6vTdUJWiq4aSMW8GEIFi",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "5c506aead3b7611fc087fed7"
+	},
+	"types": "Faculty",
+	"username": "Dhruv",
+	"password": "$2a$10$g42LMtlL3SJ5i4rzI3KQiendlsn7FNht6obmvWp45Ecu/DtSoc/9q",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "5c50a0c2afd33a3af89992dd"
+	},
+	"types": "Faculty",
+	"username": "Siddhart Sir",
+	"password": "$2a$10$0pRNFalVPEBYg7ZuL6rJL.G41SOs2.DDzpjT.4EXVWKA0xhCqoPiG",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "5c50a25f097fa32ac0ad50b3"
+	},
+	"types": "Faculty",
+	"username": "Chintan",
+	"password": "$2a$10$rn2po5CiRSPzu4YiI/hY6.72mVA241H5qe9IUZj.ELRz/fHPzSh92",
+	"__v": 0
+}

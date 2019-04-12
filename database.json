@@ -1,0 +1,18 @@
+{
+	"_id": {
+		"$oid": "5c50604dfb79d820286e4ece"
+	},
+	"types": "Admin",
+	"username": "Payal",
+	"password": "$2a$10$.1yQfwXf8JWIE3TfI7FgmeEUvvexSePTV8GKw3MVMb8Y3ucGX7B4i",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "5c51c483b15cd109c80ec196"
+	},
+	"types": "Admin",
+	"username": "l",
+	"password": "$2a$10$VYNuS2bQQ5NPqp..MbPJ9.5PiS19O7LybFRGQxH4iIKQBRlI7lv0W",
+	"__v": 0
+}
